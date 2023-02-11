@@ -4,6 +4,8 @@
 
 Using the [Wastebase Plastic Bottle Waste dataset](https://www.kaggle.com/datasets/wastebase/plastic-bottle-waste?select=wastebase_scan_summary_202106F.csv), created a bar chart examining the manufacturers of plastic bottle litter found in Canada.
 
+<img width="339" alt="litter-by-manufacturer-1" src="https://user-images.githubusercontent.com/59973863/218231852-89447697-7149-49f1-811d-2b4edfce7b7d.png">
+
 In the sample of 2,971 bottles:
 
 - 25% of collected plastic was made in Canada
